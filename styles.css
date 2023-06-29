@@ -20,3 +20,10 @@ h1 {
     font-weight: bold;
     font-family: Courier New;
 }
+
+.paragraph-4 {
+    font-size: 24px;
+    font-style: italic;
+    text-align: center;
+    text-shadow: 2px 2px 2px green;
+}
